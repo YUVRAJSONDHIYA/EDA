@@ -78,3 +78,10 @@ Runtime vs TMDb Popularity (Scatterplot)
 Average IMDb Score Trend over Years (Line Chart)
 
 Heatmap of Missing Values (Data Quality)
+
+📬 Author
+👤 Yuvraj Sondhiya
+
+💼 Aspiring Data Scientist
+📧 yuvraj123son@gmail.com
+🔗 www.linkedin.com/in/yuvrajson
